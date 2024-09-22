@@ -1,3 +1,5 @@
+# Tugas Komunikasi Data
+
 1.	Alamat IP/IPV4 address : 192.168.0.111
    
 2.	Kecepatan Jaringan/speed : 86/86 (Mbps)
